@@ -1,0 +1,41 @@
+name: ItemListGenerator
+main: me.greenem.ItemListGenerator.MainFileItemListGenerator
+version: 0.0.1
+api-version: 1.16
+commands:
+   listgen:
+      description: Start the thing
+      permission: op
+   currentlist:
+      description: Description is gone lol
+      permission: op
+   toindexlist:
+      description: Description is gone lol
+      permission: op
+   resetlist:
+      description: Description is gone lol
+      permission: op
+   acceptsimilar:
+      description: Description is gone lol
+      permission: op
+   declinesimilar:
+      description: Description is gone lol
+      permission: op
+   accept:
+      description: Description is gone lol
+      permission: op
+   decline:
+      description: Description is gone lol
+      permission: op
+   y:
+      description: Yes
+      permission: op
+   yes:
+      description: Yes
+      permission: op
+   n:
+      description: No
+      permission: op
+   no:
+      description: No
+      permission: op
